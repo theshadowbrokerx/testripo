@@ -119,9 +119,7 @@ Here’s an updated version of the **Markdown** file with external links for eac
 - **[fern-wifi-cracker](https://github.com/savio-code/fern-wifi-cracker)**: GUI tool for wireless network cracking.
 - **[wash](https://github.com/wiire-a/wash)**: WPS-enabled router scanner.
 - **[spooftooph](https://github.com/dawarren/spooftooph)**: Bluetooth spoofing tool.
-- **[aircrack-ng](https://github.com/aircr
-
-ack-ng/aircrack-ng)**: Wireless security audit tool.
+- **[aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)**: Wireless security audit tool.
 - **[kismet](https://github.com/kismetwireless/kismet)**: Wireless network detector and packet sniffer.
 - **[pixiwps](https://github.com/wiire/pixiewps)**: WPS brute-force utility.
 - **[reaver](https://github.com/t6x/reaver-wps-fork-t6x)**: WPS PIN recovery tool.
